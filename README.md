@@ -1,6 +1,6 @@
 # Manejo de datos con SecureStore y SQLite
 
-Aplicación móvil con React Native y Expo, implementando SecureStore para lamacenar información y SQLite como base de datos.
+Aplicación móvil con React Native y Expo, implementando SecureStore para almacenar información y SQLite como gestor de base de datos.
 
 ###### **Funcionalidades con SecureStore:**
 
@@ -18,10 +18,15 @@ Aplicación móvil con React Native y Expo, implementando SecureStore para lamac
 
 #### Visualización de las pantallas
 
-###### SecureStore
+<p align="center">
+<b>SecureStore</b>                                                   
+<b>SQLite</b>
+</p>
+<p align="center">
+<img src="image/README/1741139449282.jpg" alt="Pantalla de SecureStore" width="250" height="541">
+        
+<img src="image/README/1741139515855.jpg" alt="Pantalla de SQLite" width="250" height="541">
+</p>
+
 
 ![1741140768367](image/README/1741140768367.jpg)
-
-###### SQLite
-
-![1741139515855](image/README/1741139515855.jpg)
