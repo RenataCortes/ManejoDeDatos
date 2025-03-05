@@ -20,8 +20,7 @@ Aplicación móvil con React Native y Expo, implementando SecureStore para lamac
 
 ###### SecureStore
 
-![1741139449282](image/README/1741139449282.jpg "Pantalla de SecureStore")
-
+![1741140768367](image/README/1741140768367.jpg)
 
 ###### SQLite
 
