@@ -28,5 +28,4 @@ Aplicación móvil con React Native y Expo, implementando SecureStore para almac
 <img src="image/README/1741139515855.jpg" alt="Pantalla de SQLite" width="250" height="541">
 </p>
 
-
-![1741140768367](image/README/1741140768367.jpg)
+![1741141266274](image/README/1741141266274.jpg)
